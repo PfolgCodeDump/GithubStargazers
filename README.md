@@ -1,5 +1,8 @@
 # Github Stargazers
 
+>[!WARNING]
+> 本项目已合入[github-feed-filter](https://github.com/igugyj/github-feed-filter)
+
 在 GitHub 仓库头部 Star 按钮旁添加 Stargazers 按钮。
 
 ## 预览
